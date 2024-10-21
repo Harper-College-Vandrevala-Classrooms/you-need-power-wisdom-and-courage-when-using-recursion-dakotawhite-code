@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestTriangleNumberCalculator" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-20T23:57:41" hostname="Dakotas-Laptop.local" time="0.01">
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-21T00:08:30" hostname="Dakotas-Laptop.local" time="0.01">
   <properties/>
   <testcase name="testsub1n1()" classname="com.csc.TestTriangleNumberCalculator" time="0.006"/>
   <testcase name="testsub8n9()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
-  <testcase name="testvalue1()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testvalue1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testvalue4()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <testcase name="testadd1n1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testadd4n5()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>

@@ -1,4 +1,5 @@
 package com.csc;
+
 public class TriangleNumberCalculator {
     public int value(int n) {
         if (n == 1) {
