@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestTriangleNumberCalculator" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-21T00:08:30" hostname="Dakotas-Laptop.local" time="0.01">
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-11-03T18:13:36" hostname="Dakotas-Laptop.local" time="0.023">
   <properties/>
-  <testcase name="testsub1n1()" classname="com.csc.TestTriangleNumberCalculator" time="0.006"/>
+  <testcase name="testdivide()" classname="com.csc.TestTriangleNumberCalculator" time="0.011"/>
+  <testcase name="testsub1n1()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <testcase name="testsub8n9()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testvalue1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testvalue4()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testadd1n1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
-  <testcase name="testadd4n5()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testseq3()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testseq5()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testmultiply()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testsequence()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testadd1n1()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testadd4n5()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
